@@ -2,7 +2,7 @@
 
 # Sasanka Coin Dataset
 
-## Image information and Copyright
+## Image information
 
 This dataset contains following coin of the **Gupta Archer Type**
   - Budhagupta (5)
