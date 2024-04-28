@@ -15,7 +15,7 @@ Following auction has houses given permision to use these coins:
   - Marudhar Arts (2)
   - Classical Numismatic Gallery (31)
 
-[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
+[Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
     
 From private and personal collection
   - Private (42)
