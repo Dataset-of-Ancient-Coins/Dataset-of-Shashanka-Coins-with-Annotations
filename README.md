@@ -11,7 +11,7 @@ This dataset contains following **Sasanka** coins:
 Total: 75 coin images
 
 ## Copyright Information
-Following auction houses have granted permission to use these coins:
+The following auction houses have granted permission to use these coins:
   - Marudhar Arts (2 Images)
   - Classical Numismatic Gallery (31 Images)
 
