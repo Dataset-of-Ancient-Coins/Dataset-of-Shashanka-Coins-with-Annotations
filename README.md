@@ -4,7 +4,7 @@
 
 ## Image information
 
-This dataset contains following **Sasanka** coins
+This dataset contains following **Sasanka** coins:
   - Class I (61 Images)
   - Class II (14 Images)
 
