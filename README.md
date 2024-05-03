@@ -2,7 +2,7 @@
 
 # Sasanka Coin Dataset
 
-## Image information
+## Image Information
 
 This dataset contains following **Sasanka** coins:
   - Class I (61 Images)
@@ -10,7 +10,7 @@ This dataset contains following **Sasanka** coins:
 
 Total: 75 coin images
 
-## Copyright information
+## Copyright Information
 Following auction houses have granted permission to use these coins:
   - Marudhar Arts (2 Images)
   - Classical Numismatic Gallery (31 Images)
