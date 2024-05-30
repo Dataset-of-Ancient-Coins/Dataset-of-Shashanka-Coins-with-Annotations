@@ -18,7 +18,7 @@ The following auction houses have granted permission to use these coins:
 [Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©classical Numismatic Gallery
     
 From a private and personal collection:
-  - Private Collection(42 Images)
+  - Private Collection (42 Images)
 
 ***Dr. Ishtiak Al Mamoon*** Reg. No- S10400/2009 Life Member, Bangladesh Numismatic Collector’s Society
 
