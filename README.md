@@ -5,7 +5,7 @@
 ## Image Information
 
 This dataset contains the following **Shashanka** coins:
-  - Class I (61 Images)
+  - Class I (62 Images)
   - Class II (14 Images)
 
 Total: 75 coin images
