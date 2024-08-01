@@ -8,7 +8,7 @@ This dataset contains the following **Shashanka** coins:
   - Class I (62 Images)
   - Class II (14 Images)
 
-Total: 75 coin images
+Total: 76 coin images
 
 ## Copyright Information
 The following auction houses have granted permission to use these coins:
@@ -18,7 +18,7 @@ The following auction houses have granted permission to use these coins:
 [Marudhar Arts](https://marudhararts.com/)  ©Marudhar Arts, [Classical Numismatic Gallery](https://www.classicalnumismaticgallery.com/) ©Classical Numismatic Gallery
     
 From a private and personal collection:
-  - Private Collection (42 Images)
+  - Private Collection (43 Images)
 
 ***Dr. Ishtiak Al Mamoon*** Reg. No- S10400/2009 Life Member, Bangladesh Numismatic Collector’s Society
 
